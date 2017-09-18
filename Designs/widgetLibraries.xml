@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgetLibraries>
+  <library>
+    <uuid>05ed0e22-75e0-459e-aa12-1e1c596d67c8</uuid>
+    <name>Basic</name>
+  </library>
+  <library>
+    <uuid>05ed0e22-75e0-459e-aa12-1e1c596d67c9</uuid>
+    <name>Web</name>
+  </library>
+  <library>
+    <uuid>35ed0e22-75e0-459e-aa12-1e1c596d67c9</uuid>
+    <name>Web components</name>
+  </library>
+  <library>
+    <uuid>35ed0e22-75e0-459e-aa12-1e1c596d67c8</uuid>
+    <name>Parallax elements</name>
+  </library>
+</widgetLibraries>
+
