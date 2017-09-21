@@ -1,12 +1,35 @@
 body{
   background-image: url('../images/im1.jpg');
-  background-image: url('../imagesim1.jpg');
   min-height: 100vh;
   background-repeat: repeat-x;
   background-size: cover;
+  background-color: rgba(255, 0, 0, 0.5);
 }
 #text_box{
      position: absolute;
      color : orange;
      bottom: : 50%  transform :translate(-50% , -50%);
+}
+form{
+    margin-top: 50px;
+   }
+.back{
+  background:linear-gradient(rgba(106,27,154,0.4),rgba(106,27,154,0.4));
+  min-height:100vh;
+}
+.brand{
+  font-size: 30px;
+}
+
+.landing-section{
+  padding-top: 200px;
+  text-align: center;
+}
+
+.text-medium{
+  font-size: 40px;
+}
+
+.text-smaller{
+  font-size: 35px;
 }
