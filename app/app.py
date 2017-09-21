@@ -2,7 +2,7 @@ import os
 from flask import Flask, url_for,render_template
 
 #create the flask app
-app = Flask(__name__, template_folder='Designs', static_folder='../assets')
+app = Flask(__name__, template_folder='../templates', static_folder='../assets')
 app.config.from_object(__name__)
 app.config.update(dict(
     SECRET_KEY='topsecretkey',
@@ -23,3 +23,7 @@ def login_view():
 @app.route('/signup')
 def signup_view():
     return render_template('signup.html')
+
+@app.route('/dashboard')
+def dashboard_view():
+    return render_template('dashboard.html')
