@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>4</folderPosition>
+  <name>new</name>
+  <code>c156f871-874d-4d67-8f0c-873bfa6c7b0d</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>16/09/2017 17:49:28</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>BOTH</backgroundGrowth>
+  <width>1024</width>
+  <height>768</height>
+  <item-group id="0b06ecd2-f847-4ab6-a0ae-caa63e3ff9ca" visible="true">
+    <tabbedBox id="a27fde8c-96cc-46e2-bc61-68c162aedd2e" default="0" selected="0" content-editable="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <tab id="70895d7a-e5eb-4c0f-8898-ae13371e08ac" identifier="2c110d3c-117f-4bad-b27c-81c72785a029" hScroll="0" vScroll="1" visible="true">
+        <name>Panel_1</name>
+        <userID>Panel_1</userID>
+        <item-group id="68191251-9da3-4909-a7f0-34075b42d28f" visible="true">
+          <label id="27c46fbc-b215-42fe-945d-83b6b132a973" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>Item</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="139" height="29" />
+              <PositioningStyle left="23" top="14" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="11.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="4">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="17">
+                    <family>Arial</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                  </FontStyle>
+                  <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Label_1</userID>
+          </label>
+          <attribute-form id="7c2443e8-871e-4149-a25b-96f6887dc5fd" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+            <attStyle>InputText</attStyle>
+            <type>text</type>
+            <style name="LnFAttributeForm">
+              <DimensionStyle width="216" height="31" />
+              <PositioningStyle left="23" top="42" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="22" leftColor="204r204g204b" topColor="204r204g204b" rightColor="204r204g204b" bottomColor="204r204g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="11.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="5" bottom="0" right="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <defaultValue></defaultValue>
+            <placeholder color="180r180g180b">Type something...</placeholder>
+            <userID>Input_5</userID>
+          </attribute-form>
+          <label id="be08463d-a2ff-49c1-b037-7913c4ccca54" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>Price</text>
+            <style name="LnFTextBox">
+              <DimensionStyle width="139" height="29" />
+              <PositioningStyle left="23" top="78" />
+              <BackgroundStyle type="transparent" />
+              <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="11.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="5">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="17">
+                    <family>Arial</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                  </FontStyle>
+                  <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <userID>Label_2</userID>
+          </label>
+          <attribute-form id="9a208b1b-dacb-4338-81ea-3afb035ea9a2" writable="true" hidden="false" lockType="none" onTop="false" visible="true">
+            <attStyle>Password</attStyle>
+            <type>text</type>
+            <style name="LnFAttributeForm">
+              <DimensionStyle width="216" height="31" />
+              <PositioningStyle left="23" top="106" />
+              <BackgroundStyle type="color" value="255r255g255b" />
+              <BorderStyle radius="22" leftColor="204r204g204b" topColor="204r204g204b" rightColor="204r204g204b" bottomColor="204r204g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="67r67g67b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="11.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="5" bottom="0" right="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <defaultValue></defaultValue>
+            <placeholder color="180r180g180b"></placeholder>
+            <userID>Input_6</userID>
+          </attribute-form>
+          <button id="5f6253c6-966b-4494-8151-6ee8c7d8486d" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+            <text>Submit</text>
+            <style name="LnFButton">
+              <DimensionStyle width="85" height="31" />
+              <PositioningStyle left="23" top="155" />
+              <BackgroundStyle type="color" value="66r139g202b" />
+              <BorderStyle radius="30" leftColor="66r139g202b" topColor="66r139g202b" rightColor="66r139g202b" bottomColor="66r139g202b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+              <FontStyle size="11.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TransparencyStyle value="0" />
+              <PaddingStyle top="0" left="0" bottom="0" right="0" />
+              <RotationStyle angle="0" />
+              <ShadowStyle>
+                <Box enable="false" />
+                <Text enable="false" />
+              </ShadowStyle>
+            </style>
+            <rich-text-range-list>
+              <text-range text-range-start="0" text-range-end="6">
+                <style name="LnFTextRange">
+                  <FontStyle size="11.0" height="17">
+                    <family>Arial</family>
+                    <style name="Regular" weight="400" italic="normal" />
+                  </FontStyle>
+                  <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+                </style>
+              </text-range>
+            </rich-text-range-list>
+            <info>Primary button</info>
+            <userID>Button_7</userID>
+          </button>
+          <style name="LnFCell">
+            <DimensionStyle width="350" height="274" />
+            <PositioningStyle left="293" top="169" />
+            <BackgroundStyle type="color" value="238r238g238b" />
+            <BorderStyle radius="5" leftColor="238r238g238b" topColor="238r238g238b" rightColor="238r238g238b" bottomColor="238r238g238b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            <TransparencyStyle value="0" />
+            <LayoutStyle type="layoutFree" hAlign="1" vAlign="1" majorSpacing="0" minorSpacing="0" topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0" />
+            <ShadowStyle>
+              <Box enable="false" />
+            </ShadowStyle>
+          </style>
+        </item-group>
+      </tab>
+      <style name="LnFTabbedBox">
+        <DimensionStyle width="0" height="0" />
+        <PositioningStyle left="293" top="169" />
+        <RotationStyle angle="0" />
+      </style>
+      <info>Sign in form</info>
+      <userID>Dynamic_Panel_1</userID>
+    </tabbedBox>
+    <style name="LnFCanvas">
+      <DimensionStyle width="643" height="443" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="7c2443e8-871e-4149-a25b-96f6887dc5fd" trigger="onFocusIn">
+      <case execType="serial" delayAction="0">
+        <description>Interaction</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>7c2443e8-871e-4149-a25b-96f6887dc5fd</item>
+            </items>
+            <style>
+              <BorderStyle radius="22" leftColor="0r136g204b" topColor="0r136g204b" rightColor="0r136g204b" bottomColor="0r136g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="7c2443e8-871e-4149-a25b-96f6887dc5fd" trigger="onFocusOut">
+      <case execType="serial" delayAction="0">
+        <description>Interaction</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>7c2443e8-871e-4149-a25b-96f6887dc5fd</item>
+            </items>
+            <style>
+              <BorderStyle radius="22" leftColor="204r204g204b" topColor="204r204g204b" rightColor="204r204g204b" bottomColor="204r204g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="7c2443e8-871e-4149-a25b-96f6887dc5fd" trigger="onKeyDown">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <key ctrl="false" shift="false" alt="false">9</key>
+        <block>
+          <focusElement execType="serial" delayAction="0">
+            <items>
+              <item>9a208b1b-dacb-4338-81ea-3afb035ea9a2</item>
+            </items>
+          </focusElement>
+        </block>
+      </case>
+    </event>
+    <event id="9a208b1b-dacb-4338-81ea-3afb035ea9a2" trigger="onFocusIn">
+      <case execType="serial" delayAction="0">
+        <description>Interaction</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>9a208b1b-dacb-4338-81ea-3afb035ea9a2</item>
+            </items>
+            <style>
+              <BorderStyle radius="22" leftColor="0r136g204b" topColor="0r136g204b" rightColor="0r136g204b" bottomColor="0r136g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="9a208b1b-dacb-4338-81ea-3afb035ea9a2" trigger="onFocusOut">
+      <case execType="serial" delayAction="0">
+        <description>Interaction</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>9a208b1b-dacb-4338-81ea-3afb035ea9a2</item>
+            </items>
+            <style>
+              <BorderStyle radius="22" leftColor="204r204g204b" topColor="204r204g204b" rightColor="204r204g204b" bottomColor="204r204g204b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="5f6253c6-966b-4494-8151-6ee8c7d8486d" trigger="onMouseOver">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <styleElement execType="serial" delayAction="0">
+            <items>
+              <item>5f6253c6-966b-4494-8151-6ee8c7d8486d</item>
+            </items>
+            <style>
+              <BorderStyle radius="30" leftColor="32r77g116b" topColor="32r77g116b" rightColor="32r77g116b" bottomColor="32r77g116b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+              <BackgroundStyle type="color" value="40r96g144b" />
+            </style>
+          </styleElement>
+        </block>
+      </case>
+    </event>
+    <event id="5f6253c6-966b-4494-8151-6ee8c7d8486d" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d95bbc70-22c3-42da-85ea-bd21b7a5859f">view</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+
