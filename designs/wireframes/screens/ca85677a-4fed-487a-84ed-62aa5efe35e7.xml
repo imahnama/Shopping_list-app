@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <parentCode />
+  <folderPosition>2</folderPosition>
+  <name>Landing</name>
+  <code>ca85677a-4fed-487a-84ed-62aa5efe35e7</code>
+  <templateID>f39803f7-df02-4169-93eb-7547fb8c961a</templateID>
+  <date>18/09/2017 14:53:02</date>
+  <note></note>
+  <legend-item></legend-item>
+  <pageAlignment>CENTER</pageAlignment>
+  <orientation>PORTRAIT</orientation>
+  <backgroundGrowth>BOTH</backgroundGrowth>
+  <width>1024</width>
+  <height>768</height>
+  <item-group id="f04eb176-6efe-4858-a870-595440c95f49" visible="true">
+    <group-container id="24da944d-7f83-409a-9d2b-9cc6d40c758a" hidden="false" lockType="none" onTop="false" visible="true">
+      <line id="7ed3ad91-e5a1-47d6-b658-5fc7e2015d03" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="776" height="2" />
+          <PositioningStyle left="4" top="163" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="360" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_1</userID>
+      </line>
+      <line id="7532f8e6-1eb8-4e1d-8952-6929cea32a45" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="776" height="2" />
+          <PositioningStyle left="2" top="198" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_2</userID>
+      </line>
+      <line id="1f1ae424-1273-4397-9a53-2157e1d345cf" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="776" height="2" />
+          <PositioningStyle left="4" top="236" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_4</userID>
+      </line>
+      <line id="a497eac4-536f-4b89-b749-2e31bae38fd9" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="768" height="2" />
+          <PositioningStyle left="6" top="271" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_5</userID>
+      </line>
+      <line id="2ec93f95-84b7-4f2d-bb24-f48d13dba8ea" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="770" height="2" />
+          <PositioningStyle left="0" top="349" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_6</userID>
+      </line>
+      <line id="3d7ce1a1-a98c-43d3-ade8-9adc5886ef3d" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="767" height="2" />
+          <PositioningStyle left="1" top="383" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_7</userID>
+      </line>
+      <line id="705992ff-947d-4724-b9fd-5715434662fa" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="779" height="2" />
+          <PositioningStyle left="0" top="417" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_8</userID>
+      </line>
+      <line id="ace32987-74ba-40e0-9b6d-718700da04d9" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="771" height="2" />
+          <PositioningStyle left="4" top="454" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_9</userID>
+      </line>
+      <line id="5cc0118e-bf81-47e7-bbc3-19bc1c84f862" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="768" height="2" />
+          <PositioningStyle left="6" top="313" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_10</userID>
+      </line>
+      <ellipse id="9f9a9c1a-7e07-44a8-9cde-a451e8252bb0" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="171" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_1</userID>
+      </ellipse>
+      <ellipse id="f7882419-4d07-4c89-8970-dfdf869a750a" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="209" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_2</userID>
+      </ellipse>
+      <ellipse id="9282dc3c-deb8-4d93-aae0-ccbc52645383" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="244" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_3</userID>
+      </ellipse>
+      <ellipse id="f86a361c-5625-4cfd-b2a2-d6b8abcdccd5" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="283" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_4</userID>
+      </ellipse>
+      <ellipse id="0ccd501c-50f6-4bfe-bfb2-b7c0e4cc61e7" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="356" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_5</userID>
+      </ellipse>
+      <ellipse id="e03571b5-5e04-4a3d-a7d9-9a017eaa0377" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="320" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_6</userID>
+      </ellipse>
+      <ellipse id="f0cf055f-b216-4bf4-9b82-b90d7c7586fc" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="428" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_7</userID>
+      </ellipse>
+      <ellipse id="ec373471-d1ad-4ab6-9eb2-c613e0c16aac" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="391" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_8</userID>
+      </ellipse>
+      <line id="607a95fc-8bc3-4b02-b37a-ca8ae6a7e42d" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="776" height="2" />
+          <PositioningStyle left="4" top="129" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="360" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_3</userID>
+      </line>
+      <line id="9418ac40-6942-4e97-ab76-d1b6f5b244e9" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="776" height="2" />
+          <PositioningStyle left="8" top="95" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="360" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_11</userID>
+      </line>
+      <line id="2ec4a1c1-c222-42ce-9717-ded6ae9ee711" start-marker="NONE" end-marker="NONE" hidden="false" lockType="none" onTop="false" visible="true">
+        <style name="LnFSeparationLine">
+          <DimensionStyle width="771" height="2" />
+          <PositioningStyle left="6" top="487" />
+          <BorderStyle radius="0" leftColor="64r64g64b" topColor="64r64g64b" rightColor="64r64g64b" bottomColor="64r64g64b" leftStyle="none" topStyle="solid" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="2" rightWidth="1" bottomWidth="1" />
+          <TransparencyStyle value="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+          </ShadowStyle>
+        </style>
+        <userID>Line_12</userID>
+      </line>
+      <ellipse id="f128856e-b3f5-41c9-ae17-778e9899124e" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="137" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_9</userID>
+      </ellipse>
+      <ellipse id="2f19b447-577a-4cdf-8bac-a5d156c37cdd" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="461" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_10</userID>
+      </ellipse>
+      <ellipse id="aa66b6bf-a05c-40c7-ac62-ef7484ff4460" hidden="false" lockType="none" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFEllipse">
+          <DimensionStyle width="25" height="21" />
+          <PositioningStyle left="679" top="102" />
+          <BackgroundStyle type="color" value="255r255g255b" />
+          <BorderStyle radius="0" color="64r64g64b" style="solid" width="2" />
+          <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="17">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="center" vAlign="center" decoration="none" line-height="18" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Ellipse_11</userID>
+      </ellipse>
+      <label id="eee66a7c-f862-4a63-bf00-b8292b859250" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Shopping List...</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="189" height="32" autofit="true" />
+          <PositioningStyle left="6" top="0" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="20.0" height="32">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="13">
+            <style name="LnFTextRange">
+              <FontStyle size="20.0" height="32">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+          <text-range text-range-start="13" text-range-end="16">
+            <style name="LnFTextRange">
+              <FontStyle size="20.0" height="0">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_1</userID>
+      </label>
+      <label id="1381cf4b-bda2-40e7-852f-1974c09f1a7c" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Item</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="40" height="24" autofit="true" />
+          <PositioningStyle left="21" top="67" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="16.0" height="24">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="4">
+            <style name="LnFTextRange">
+              <FontStyle size="16.0" height="24">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_2</userID>
+      </label>
+      <label id="5b2c79ad-1190-4c58-8159-615082cdc1ff" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Check</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="59" height="24" autofit="true" />
+          <PositioningStyle left="667" top="67" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="16.0" height="24">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="5">
+            <style name="LnFTextRange">
+              <FontStyle size="16.0" height="24">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_3</userID>
+      </label>
+      <label id="3c83ab3e-f2ca-4335-85c8-46a819250d7a" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Price</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="49" height="24" autofit="true" />
+          <PositioningStyle left="361" top="66" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="16.0" height="24">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="5">
+            <style name="LnFTextRange">
+              <FontStyle size="16.0" height="24">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_4</userID>
+      </label>
+      <label id="92ebf6e7-efce-4cf0-a7e7-a465a25afb6a" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>1</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="105" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_5</userID>
+      </label>
+      <label id="9fc52c7e-51de-4e74-a84b-eee98f7c4941" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>2</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="142" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="360" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_6</userID>
+      </label>
+      <label id="7d17e809-8f47-4248-aeae-27c6c953f20e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>3</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="174" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_7</userID>
+      </label>
+      <label id="daea6f8d-230a-474c-b8b7-938c074371c3" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>4</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="212" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_8</userID>
+      </label>
+      <label id="e78fb8c6-0f10-4d94-b56a-41f3942bb0b6" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>5</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="247" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_9</userID>
+      </label>
+      <label id="9dd296f6-7693-4f59-b085-c54a72937922" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>6</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="286" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_10</userID>
+      </label>
+      <label id="98e78b7e-b436-4e91-a540-6ed5ed5421c0" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>7</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="323" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_11</userID>
+      </label>
+      <label id="b8b967e6-3f4a-4866-82a6-534bab003d5a" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>8</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="359" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_12</userID>
+      </label>
+      <label id="fae5c19a-13a5-4b87-9bba-2f23e5419a87" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>9</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="26" top="394" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="1">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_13</userID>
+      </label>
+      <label id="4007e987-9de4-4128-86ab-0ce9f52da220" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>10</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="14" height="16" autofit="true" />
+          <PositioningStyle left="24" top="431" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="2">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_14</userID>
+      </label>
+      <label id="476f97a3-e17e-4084-9cb7-5e43a0c80b96" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>11</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="13" height="16" autofit="true" />
+          <PositioningStyle left="24" top="464" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="2">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_15</userID>
+      </label>
+      <label id="bc7218be-a4cb-4ce6-a700-98f5abcd98cf" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text></text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="10" height="16" autofit="true" />
+          <PositioningStyle left="387" top="105" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="0">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_16</userID>
+      </label>
+      <label id="d5fb8d06-55d4-44a1-92b6-dc0a5fc7c87b" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>50 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="39" height="16" autofit="true" />
+          <PositioningStyle left="372" top="142" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="6">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_17</userID>
+      </label>
+      <label id="469b24ac-8f2b-46a1-9dd9-c5f1dd4d2f5e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>30 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="39" height="16" autofit="true" />
+          <PositioningStyle left="372" top="174" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="6">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_18</userID>
+      </label>
+      <label id="537342de-612f-4b02-9648-1f7a90be319a" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>65 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="39" height="16" autofit="true" />
+          <PositioningStyle left="372" top="211" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="6">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_19</userID>
+      </label>
+      <label id="ddc73066-b219-41d7-89dd-017dcd8e8179" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>120 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="369" top="246" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_20</userID>
+      </label>
+      <label id="98c6e299-6a21-4982-988d-ba76b767e6eb" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>200 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="285" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_21</userID>
+      </label>
+      <label id="0573d401-11cf-47ac-bb7b-76076c105b43" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>250 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="322" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_22</userID>
+      </label>
+      <label id="655623d2-bfc1-4925-bec8-0b6779a94182" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>150 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="358" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_23</userID>
+      </label>
+      <label id="fe166228-5c24-4b70-aa72-416a5970cea8" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>150 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="393" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_24</userID>
+      </label>
+      <label id="4d9d1179-58dd-40c8-8677-50d4e84190ed" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>300 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="430" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_25</userID>
+      </label>
+      <label id="f870828c-412c-40e1-8443-dbb34f6332dc" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>125 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="373" top="463" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_26</userID>
+      </label>
+      <label id="9861f0ce-4fc3-4e5d-b799-e581d6a3ff60" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Milk</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="24" height="16" autofit="true" />
+          <PositioningStyle left="46" top="104" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="4">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_27</userID>
+      </label>
+      <label id="9876986b-85d9-4d68-8a94-ab68a8853445" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Oranges</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="49" height="16" autofit="true" />
+          <PositioningStyle left="47" top="140" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_28</userID>
+      </label>
+      <label id="f0cfc4c7-8be1-470f-9c15-3aa062ad9c73" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Bread</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="34" height="16" autofit="true" />
+          <PositioningStyle left="47" top="173" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="5">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_29</userID>
+      </label>
+      <label id="4314f7cd-09d8-4316-a9ff-905f73bc5cb8" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Omo</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="28" height="16" autofit="true" />
+          <PositioningStyle left="48" top="211" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="3">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_30</userID>
+      </label>
+      <label id="609bf6d5-b8f9-4f1c-9a6e-5a889f79bd04" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Blueband</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="54" height="16" autofit="true" />
+          <PositioningStyle left="49" top="246" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="8">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_31</userID>
+      </label>
+      <label id="f69104f8-02ec-4bd1-8802-06953984d6a6" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Tomato</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="42" height="16" autofit="true" />
+          <PositioningStyle left="50" top="285" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="6">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_32</userID>
+      </label>
+      <label id="ed282ebd-02bc-4742-b331-ceea80309ca3" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Sugar</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="34" height="16" autofit="true" />
+          <PositioningStyle left="51" top="322" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="5">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_33</userID>
+      </label>
+      <label id="f073d5a4-b507-4718-b0f1-98afeebb874e" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Tea leaves</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="60" height="16" autofit="true" />
+          <PositioningStyle left="51" top="358" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="10">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_34</userID>
+      </label>
+      <label id="5c5fa863-1bf6-43fc-ac35-884a3b627087" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Potatoes</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="52" height="16" autofit="true" />
+          <PositioningStyle left="47" top="393" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="8">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_35</userID>
+      </label>
+      <label id="3fcff22b-ebe2-4f2c-b63c-b4d71ae85c04" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Rice</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="26" height="16" autofit="true" />
+          <PositioningStyle left="50" top="430" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="4">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_36</userID>
+      </label>
+      <label id="90436dbb-408a-4344-a997-14fff47d73c5" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>Soap</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="30" height="16" autofit="true" />
+          <PositioningStyle left="49" top="463" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="4">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_37</userID>
+      </label>
+      <label id="52913f77-c673-4708-aa50-26e282a136c5" singleLine="true" hidden="false" lockType="bothsizes" onTop="false" visible="true">
+        <text>100 shs</text>
+        <style name="LnFTextBox">
+          <DimensionStyle width="46" height="16" autofit="true" />
+          <PositioningStyle left="374" top="110" />
+          <BackgroundStyle type="transparent" />
+          <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+          <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+          <FontStyle size="10.0" height="16">
+            <family>Arial</family>
+            <style name="Regular" weight="400" italic="normal" />
+          </FontStyle>
+          <TransparencyStyle value="0" />
+          <PaddingStyle top="0" left="0" bottom="0" right="0" />
+          <RotationStyle angle="0" />
+          <ShadowStyle>
+            <Box enable="false" />
+            <Text enable="false" />
+          </ShadowStyle>
+        </style>
+        <rich-text-range-list>
+          <text-range text-range-start="0" text-range-end="7">
+            <style name="LnFTextRange">
+              <FontStyle size="10.0" height="16">
+                <family>Arial</family>
+                <style name="Regular" weight="400" italic="normal" />
+              </FontStyle>
+              <TextStyle color="51r51g51b" hAlign="left" vAlign="center" decoration="none" line-height="0" />
+            </style>
+          </text-range>
+        </rich-text-range-list>
+        <userID>Text_38</userID>
+      </label>
+      <style name="LnFGroup">
+        <DimensionStyle width="784" height="489" />
+        <PositioningStyle left="89" top="21" />
+        <RotationStyle angle="0" />
+      </style>
+      <userID>Group_1</userID>
+    </group-container>
+    <button id="499c7bd7-75e9-41b9-8357-0e0d707a3f0a" singleLine="true" hidden="false" lockType="none" onTop="false" visible="true">
+      <text>Login</text>
+      <style name="LnFButton">
+        <DimensionStyle width="84" height="31" />
+        <PositioningStyle left="710" top="21" />
+        <BackgroundStyle type="color" value="66r139g202b" />
+        <BorderStyle radius="30" leftColor="66r139g202b" topColor="66r139g202b" rightColor="66r139g202b" bottomColor="66r139g202b" leftStyle="solid" topStyle="solid" rightStyle="solid" bottomStyle="solid" leftWidth="2" topWidth="2" rightWidth="2" bottomWidth="2" />
+        <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+        <FontStyle size="11.0" height="17">
+          <family>Arial</family>
+          <style name="Regular" weight="400" italic="normal" />
+        </FontStyle>
+        <TransparencyStyle value="0" />
+        <PaddingStyle top="0" left="0" bottom="0" right="0" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+          <Text enable="false" />
+        </ShadowStyle>
+      </style>
+      <rich-text-range-list>
+        <text-range text-range-start="0" text-range-end="5">
+          <style name="LnFTextRange">
+            <FontStyle size="11.0" height="17">
+              <family>Arial</family>
+              <style name="Regular" weight="400" italic="normal" />
+            </FontStyle>
+            <TextStyle color="255r255g255b" hAlign="center" vAlign="center" decoration="none" line-height="0" />
+          </style>
+        </text-range>
+      </rich-text-range-list>
+      <info>Primary button</info>
+      <userID>Button_12</userID>
+    </button>
+    <image id="8ba76e23-72a7-4eb3-9dca-f1f5c5e7c1d1" hidden="false" lockType="none" onTop="false" visible="true">
+      <image-name>39face7d-59fa-4d87-92b5-3c913377adf6.jpeg</image-name>
+      <original-name>IMG_62905199086244.jpeg</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="938" height="560" />
+        <PositioningStyle left="0" top="0" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TransparencyStyle value="75" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b" hasColor="false" />
+      </style>
+      <userID>Image_1</userID>
+    </image>
+    <image id="12880c8c-c998-49de-97bc-d8b6c6c7fed0" hidden="false" lockType="none" onTop="false" visible="true">
+      <image-name>39face7d-59fa-4d87-92b5-3c913377adf6.jpeg</image-name>
+      <original-name>IMG_62905199086244.jpeg</original-name>
+      <style name="LnFImage">
+        <DimensionStyle width="938" height="560" />
+        <PositioningStyle left="20" top="20" />
+        <BorderStyle radius="0" leftColor="0r0g0b" topColor="0r0g0b" rightColor="0r0g0b" bottomColor="0r0g0b" leftStyle="none" topStyle="none" rightStyle="none" bottomStyle="none" leftWidth="1" topWidth="1" rightWidth="1" bottomWidth="1" />
+        <TransparencyStyle value="75" />
+        <RotationStyle angle="0" />
+        <ShadowStyle>
+          <Box enable="false" />
+        </ShadowStyle>
+        <SVGBackgroundStyle isSVG="false" bgColor="0r0g0b" hasColor="false" />
+      </style>
+      <userID>Image_2</userID>
+    </image>
+    <style name="LnFCanvas">
+      <DimensionStyle width="958" height="580" />
+      <PositioningStyle left="0" top="0" />
+      <BackgroundStyle type="transparent" />
+      <TransparencyStyle value="0" />
+    </style>
+  </item-group>
+  <Events>
+    <event id="499c7bd7-75e9-41b9-8357-0e0d707a3f0a" trigger="onClick">
+      <case execType="serial" delayAction="0">
+        <description>Case 1</description>
+        <block>
+          <navigateLink execType="serial" delayAction="0">
+            <screen id="d12245cc-1680-458d-89dd-4f0d7fb22724">Screen 1</screen>
+            <type>window</type>
+          </navigateLink>
+        </block>
+      </case>
+    </event>
+  </Events>
+</screen>
+
