@@ -1,0 +1,12 @@
+body{
+  background-image: url('../images/im1.jpg');
+  background-image: url('../imagesim1.jpg');
+  min-height: 100vh;
+  background-repeat: repeat-x;
+  background-size: cover;
+}
+#text_box{
+     position: absolute;
+     color : orange;
+     bottom: : 50%  transform :translate(-50% , -50%);
+}
