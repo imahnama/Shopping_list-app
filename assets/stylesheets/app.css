@@ -1,15 +1,14 @@
-body{
-  background-image: url('../images/im1.jpg');
+#bgimg{
+  background-image: linear-gradient(rgba(106,27,154,0.5),rgba(106,27,154,0.6)), url('../images/im1.jpg');
   min-height: 100vh;
   background-repeat: repeat-x;
   background-size: cover;
   background-color: rgba(255, 0, 0, 0.5);
 }
-#text_box{
-     position: absolute;
-     color : orange;
-     bottom: : 50%  transform :translate(-50% , -50%);
-}
+.text_box{
+     color : white;
+   }
+
 form{
     margin-top: 50px;
    }
@@ -28,6 +27,7 @@ form{
 
 .text-medium{
   font-size: 40px;
+
 }
 
 .text-smaller{
