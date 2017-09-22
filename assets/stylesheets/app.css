@@ -12,10 +12,7 @@
 form{
     margin-top: 50px;
    }
-.back{
-  background:linear-gradient(rgba(106,27,154,0.4),rgba(106,27,154,0.4));
-  min-height:100vh;
-}
+
 .brand{
   font-size: 30px;
 }
