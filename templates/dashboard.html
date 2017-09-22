@@ -15,11 +15,20 @@
         <a class="navbar-brand" href="#">Shopping-List</a>
       </div>
       <ul class="nav navbar-nav  navbar-right">
-        <li class="active"><a href="#">Home</a></li>
+        <li class="active"><a href="/">Home</a></li>
         <li><a href="#">My list</a></li>
-        <li><a href="#">New list</a></li>
+        <li><a href="">New list</a></li>
         <li><a href="#">Update list</a></li>
       </ul>
+    </div>
+    <div class="row collapse" data-equalizer data-equalize-on="medium">
+      <div class="medium-2 columns" id="sidebar" data-equalizer-watch>
+
+      </div>
+        <div class="medium-10 columns" data-equalizer-watch">
+          {% block pagecontent %}{% endblock%}
+        </div>
+        </div>
     </div>
   </nav>
 </body>
