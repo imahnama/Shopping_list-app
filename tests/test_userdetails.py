@@ -10,8 +10,6 @@ class TestUser(unittest.TestCase):
         """Destroy the object after every test"""
         del self.user
 
-
-
 if __name__ == '__main__':
     """run the tests"""
     unittest.main()
