@@ -1,2 +1,2 @@
-class UserDetails():
-    pass
+     def __init__(self):
+        self.details={}

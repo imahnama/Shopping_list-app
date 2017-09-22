@@ -9,7 +9,7 @@ app.config.update(dict(
     USERNAME='admin',
     PASSWORD='default',
     #this should be set to false in production
-    DEBUG = True
+    DEBUG=True
 ))
 @app.route('/')
 def index():
@@ -18,12 +18,15 @@ def index():
 
 @app.route('/login')
 def login_view():
+    """route to render login page"""
     return render_template('login.html')
 
 @app.route('/signup')
 def signup_view():
+    """route to render signup page"""
     return render_template('signup.html')
 
 @app.route('/dashboard')
 def dashboard_view():
+    """route to render dashboard page"""
     return render_template('dashboard.html')
