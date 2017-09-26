@@ -1,11 +1,9 @@
-adium-theme-ubuntu==0.3.4
 click==6.7
 Flask==0.12.2
+gunicorn==19.7.1
 itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
-pycurl==7.43.0
-python-apt==1.1.0b1
-unity-lens-photos==1.0
-virtualenv==15.1.0
+py==1.4.34
+pytest==3.2.2
 Werkzeug==0.12.2
