@@ -8,7 +8,8 @@
 
 # Distribution / packaging
 .Python
-venv/
+bin/
+include/
 build/
 develop-eggs/
 dist/
@@ -38,6 +39,7 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+.coverage.yml
 .coverage
 .coverage.*
 *.cache
@@ -45,7 +47,7 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
-
+.tom.
 # Translations
 *.mo
 *.pot
