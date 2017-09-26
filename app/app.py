@@ -1,5 +1,5 @@
 import os
-from flask import Flask, url_for,render_template, request, flash, redirect
+from flask import Flask, url_for,render_template, request, flash, redirect, session
 #import the user object
 from app import User_obj
 
@@ -30,10 +30,12 @@ def signup():
 def dashboard_view():
     """route to render dashboard page"""
     return render_template('dashboard.html')
+
 @app.route('/register', methods=['POST'])
 def register():
     username = request.form['username']
     email = request.form['email']
+    # counter check if password is the same
     password = request.form['password']
     confpassword = request.form['confpassword']
 
@@ -46,3 +48,15 @@ def register():
         return redirect(url_for('signup'))
     flash('signup successful. now login', 'alert-success')
     return redirect(url_for('login'))
+
+@app.route ('/session', methods =['POST'])
+def session ():
+    username = request.form['username']
+    password = request.form['password']
+    res = User_obj.login(username=username, password=password)
+    print(res)
+    if res == True:
+        return redirect(url_for('dashboard_view'))
+    else:
+        flash('wrong username or password', 'alert-danger')
+        return redirect(url_for('login'))

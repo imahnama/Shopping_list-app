@@ -1,5 +1,7 @@
 import os
-from  flask import Flask
-from app.userdetails import UserDetails
+from flask import Flask
 
-User_obj = UserDetails()
+from app.userdetails import UserDetails
+from app.shoppinglist import Shoppinglist
+
+User_obj = userdetails.UserDetails()
