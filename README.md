@@ -1,4 +1,4 @@
-https://travis-ci.org/imahnama/Shopping_list-app.svg?branch=master
+[![Build Status](https://travis-ci.org/imahnama/Shopping_list-app.svg?branch=master)](https://travis-ci.org/imahnama/Shopping_list-app)
 
 [![Coverage Status](https://coveralls.io/repos/github/imahnama/Shopping_list-app/badge.svg?branch=master)](https://coveralls.io/github/imahnama/Shopping_list-app?branch=master)
 
