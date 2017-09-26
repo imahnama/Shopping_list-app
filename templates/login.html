@@ -8,10 +8,36 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="{{url_for('static', filename='stylesheets/app.css')}}" />
       <title>Shopping list</title>
+      <style>
+      form{
+           background: rgba(45, 45, 125, 0.58);
+           color: white;
+            padding: 40px;
+            margin-top: 200px;
+            padding-bottom: 60px;
+           }
+    .form-control{
+                 border-radius: 0px;
+                 background-color: rgba(23, 3, 3, 0.48);
+                 color: white;
+                 border-radius:1px solid #291212
+             }
+
+    body{
+              background-image: url('../assets/images/im1.jpg');
+              background-size: cover;
+              color: white;
+              background-repeat: no-repeat;
+              background-position: center;
+              background-attachment: fixed;
+      }
+
+
+      </style>
   </head>
       <body>
         <div class="container forms">
-      <div class="col-sm-4">
+    <div class="col-sm-offset-2 col-sm-8">
         {% with messages = get_flashed_messages(with_categories=true) %}
     		{% if messages %}
     		{% for category, message in messages %}
@@ -22,27 +48,22 @@
      	 	{% endfor %}
      	 	{% endif %}
      	 	{% endwith %}
-      <form>
+      <form action="{{url_for("session")}}" method="POST">
     <div class="form-group">
-      <label for="exampleInputEmail1">Email address</label>
-      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+      <label for="username">Username</label>
+      <input type="text" class="form-control" name="username"  placeholder="Enter username">
     </div>
     <div class="form-group">
       <label for="exampleInputPassword1">Password</label>
-      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+      <input type="password" class="form-control" name="password" placeholder="Password">
     </div>
-      <div class="form-check">
-      <label class="form-check-label">
-        <input type="checkbox" class="form-check-input">
-        Check me out
-      </label>
-    </div>
-    <a href="{{url_for('dashboard_view')}}"class="center btn btn-primary">Sign In</a>
-  </form>
+    <button type="submit" class="center btn btn-primary">Sign in</button>
+    <p>Not a member?<a href ="{{url_for('signup')}}" method = "get"> Sign Up</a></p>
+</form>
 </div>
 </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libssignup/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="../assets/js/app.js"></script>
   </body>
