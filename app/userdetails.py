@@ -1,5 +1,8 @@
+""" A class that handles user details"""
 class UserDetails(object):
-    """ A class that handles user details"""
+
+
+    """a list that holds all users"""
     userlist =[]
 
     def __init__(self):
@@ -18,17 +21,15 @@ class UserDetails(object):
         else:
             self.details ={'username' : self.username, 'email' : self.email , 'password' :  self.password}
             self.userlist.append(self.details)
+            print(self.userlist)
             return "registered"
-
 
 
     def login(self,username, password):
         for user in self.userlist:
-            print(user)
-            if username == user['username']:
+            if user['username'] == username:
                 print(user)
-                if password == user['password']:
+                if user['password'] == password:
                     return True
-
         else:
             return False
