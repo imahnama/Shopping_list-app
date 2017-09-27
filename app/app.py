@@ -11,7 +11,40 @@ app.config.update(dict(
     #this should be set to false in production
     DEBUG=True
 ))
-@app.route('/')
+@app.route('/  <div class="row container">
+    <div class="col-md-6 col-md-offset-7 back">
+      <h1 class="text-center">Sign Up</h1>
+      {% with messages = get_flashed_messages(with_categories=true) %}
+  		{% if messages %}
+  		{% for category, message in messages %}
+      <div class="alert {{category}} fade in">
+          <a href="#" class="close" data-dismiss="alert">&times;</a>
+          <strong>{{message}}</strong>
+      </div>
+   	 	{% endfor %}
+   	 	{% endif %}
+   	 	{% endwith %}
+    <form action="{{url_for("register")}}" method="POST" name="signup">
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="name" class="form-control" name="username" placeholder="Username">
+      </div>
+  <div class="form-group">
+    <label for="Email">Email address</label>
+    <input type="email" class="form-control" name="email" aria-describedby="emailHelp" placeholder="Enter email">
+  </div>
+  <div class="form-group">
+    <label for="Password">Password</label>
+    <input type="password" class="form-control" name="password" minlength="6" placeholder="Password">
+  </div>
+  <div class="form-group">
+    <label for="confpassword">Confirm Password</label>
+    <input type="password" class="form-control" name="confpassword" placeholder="Confirm Password">
+  </div>
+  <button type="submit" class="center btn btn-primary">Sign up</button>
+</form>
+  </div>
+</div>')
 def index():
     """route to render home page"""
     return render_template('index.html')
@@ -60,3 +93,10 @@ def session ():
     else:
         flash('wrong username or password', 'alert-danger')
         return redirect(url_for('login'))
+@app.route ('/newlist')
+def newlist():
+    if is_logged_in():
+        return render_template('newlist.html')
+    else:
+        return redirect(url_for('loginview'))
+    return render_template('newlist.html')
