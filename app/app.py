@@ -1,7 +1,8 @@
 import os
 from flask import Flask, url_for,render_template, request, flash, redirect, session
 #import the user object
-from app import User_obj
+from forms import CreateList
+from app import User_obj,Shoppinglist_obj
 
 #create the flask app
 app = Flask(__name__, template_folder='../templates', static_folder='../assets')
@@ -60,3 +61,15 @@ def session ():
     else:
         flash('wrong username or password', 'alert-danger')
         return redirect(url_for('login'))
+
+@app.route('/newlist', methods=['POST'])
+def newlist():
+    frm=CreateList()
+    if request.method == 'POST' and frm.validate_on_submit():
+        newshoplist= CreateList(frm.listname.data)
+        return redirect(url_for('dashboard_view'))
+
+
+    else:
+        flash('list creation successful', 'success')
+        return redirect(url_for('newlist'))
