@@ -64,12 +64,10 @@ def session ():
 
 @app.route('/newlist', methods=['POST'])
 def newlist():
-    frm=CreateList()
-    if request.method == 'POST' and frm.validate_on_submit():
-        newshoplist= CreateList(frm.listname.data)
+    form=NewList()
+    if request.method == 'POST' and form.validate_on_submit():
+        newshoplist= CreateList(form.listname.data)
         return redirect(url_for('dashboard_view'))
-
-
     else:
         flash('list creation successful', 'success')
-        return redirect(url_for('newlist'))
+    return redirect(url_for('newlist'),form=form)
