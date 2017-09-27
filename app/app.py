@@ -1,7 +1,7 @@
 import os
 from flask import Flask, url_for,render_template, request, flash, redirect, session
 #import the user object
-from forms import CreateList
+from forms import NewList
 from app import User_obj,Shoppinglist_obj
 
 #create the flask app
