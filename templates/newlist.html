@@ -1,6 +1,40 @@
 {% extends "dashboard.html" %}
 
 {% block pagecontent %}
+<div class="row collapse">
+	<div class="medium-8 columns medium-offset-1">
+		<h2> Create a New Shopping list</h2>
+		{% with messages = get_flashed_messages(with_categories=true) %}
+		{% if messages %}
+		{% for category, message in messages %}
+		<div class="callout {{category}}" data-closable>
+    		<p> {{ message }}</p>
+    		<button class="close-button" aria-label="Dismiss alert" type="button" data-close>
+      		<span aria-hidden="true">&times;</span>
+    		</button>
+ 	 	</div>
+ 	 	{% endfor %}
+ 	 	{% endif %}
+ 	 	{% endwith %}
+		<form action="{{url_for("newlist")}}" method="POST" name="itemlist">
+		<div class="row">
+			<div class="medium-3 columns">
+				<label for="listname">List name</label>
+			</div>
+			<div class="medium-5 medium-offset-1 end">
+				<input type="text" name="listname" placeholder="list name" required />
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 2%;">
+             <div class="medium-3 columns medium-offset-2">
+               <input type="submit" name="newlist" value="create" class="button success">
+             </div>
+          </div>
+		</form>
+	</div>
+</div>
+
 
 
 {%endblock%}
