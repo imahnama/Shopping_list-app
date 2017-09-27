@@ -1,14 +1,14 @@
 language: python
 python:
   - "3.5-dev" # 3.5 development branch
-  
+
 # command to install dependencies
 install:
   - pip install -r requirements.txt
 # command to run tests
   - pip install coveralls
-  -pip install coverage
+  - pip install coverage
 script:
   - nosetest --with-coverage # or py.test for Python versions 3.5 and below
-after-success:
+after_success:
   - coverall
