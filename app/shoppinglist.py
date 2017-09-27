@@ -21,10 +21,29 @@ class Shoppinglist(object):
             return res
 
     def view_lists(self, owner):
-        """ a method to show lists beonging to a particular user"""
         #a new list containing names of lists belonging to  a certain user
         user_shoplist = []
         for s_list in self.shoppinglists:
             if s_list['owner']== owner:
                 user_shoplist.append(s_list)
-        return user_shoplist
+                return user_shoplist
+
+
+    def update_list(self, listname, owner,listid, newname):
+        for splist in self.shoppinglists:
+            if splist['listname'] == newname and splist['owner'] == owner:
+                return 'list name exists'
+
+
+                if splist['listid'] == listid:
+                    splist['listname'] = newname
+                    return 'success'
+
+    def delete_list(self, listid):
+        """ a method to delete a list"""
+        for splist in self.shoppinglists:
+            if splist['listid'] == listid:
+                    self.shoppinglists.remove(splist)
+                    return 'deleted'
+            else:
+                return "error"
