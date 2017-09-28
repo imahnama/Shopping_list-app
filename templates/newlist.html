@@ -1,14 +1,17 @@
 {% extends "dashboard.html" %}
 
-{% block pagecontent %}
-<form action="{{url_for('newlist')}}" method="POST">
-  {{ form.csrf_token }}
+{% block body %}
+<div class="container forms">
+<div class="form-group col-md-4">
+{% from "_includes/formhelpers.html" import render_field %}
 
-   {{form.name.label}} {{form.name()}}
+  <form method="POST" action={{url_for("newlist")}}>
+    {{form.csrf_token}}
+{{ render_field(form.name, class_="form-control") }}
+<div>
+<input class="center btn btn-primary" type="submit" value="Submit">
+</form>
+</div>
+</div>
 
-       {{form.submit()}}	   
-
-     </div>
-   </form>
-
-{%endblock%}
+{% endblock %}
