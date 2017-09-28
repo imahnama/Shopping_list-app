@@ -1,7 +1,7 @@
 import os
 from flask import Flask, url_for,render_template, request, flash, redirect, session
 #import the user object
-from forms import NewList
+from .forms import NewList
 from app import User_obj,Shoppinglist_obj
 
 #create the flask app
@@ -62,12 +62,12 @@ def session ():
         flash('wrong username or password', 'alert-danger')
         return redirect(url_for('login'))
 
-@app.route('/newlist', methods=['POST'])
+@app.route('/newlist', methods=['GET','POST'])
 def newlist():
     form=NewList()
     if request.method == 'POST' and form.validate_on_submit():
-        newshoplist= CreateList(form.listname.data)
-        return redirect(url_for('dashboard_view'))
+        newshoplist= NewList(form.listname.data)
+        return redirect(url_for('newlist'))
     else:
         flash('list creation successful', 'success')
-    return redirect(url_for('newlist'),form=form)
+    return render_template('dashboard.html',form=form)
