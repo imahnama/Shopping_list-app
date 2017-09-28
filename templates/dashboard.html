@@ -17,21 +17,23 @@
       <ul class="nav navbar-nav  navbar-right">
         <li class="active"><a href="/">Home</a></li>
         <li><a href="#">My list</a></li>
-        <li><a href="url_for('newlist)>New list</a></li>
+        <li><a href="{{url_for('newlist')}}">New list</a></li>
         <li><a href="#">Update list</a></li>
       </ul>
     </div>
+  </div>
     <div class="row collapse" data-equalizer data-equalize-on="medium">
-      <div class="medium-2 columns" id="sidebar" data-equalizer-watch>
+      <div class="medium-2 columns data-equalizer-watch" id="sidebar" >
 
       </div>
-        <div class="medium-10 columns" data-equalizer-watch">
-          {% block pagecontent %}{% endblock%}
-        </div>
-        </div>
+        <div class="medium-10 columns">
+
     </div>
   </nav>
-</body>
+  {% block body %}
+
+  {% endblock%}
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
